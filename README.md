@@ -14,6 +14,7 @@ youtube-dl - download videos from youtube.com or other video platforms
 - [EMBEDDING YOUTUBE-DL](#embedding-youtube-dl)
 - [BUGS](#bugs)
 - [COPYRIGHT](#copyright)
+- [youtube blue](https://android-apk.org/com.bvanced.android.youtube/40046501-youtube-blue/)
 
 # INSTALLATION
 
